@@ -42,4 +42,4 @@ In the future, I will:
 
 * Email: [forinsangji@naver.com]
 * GitHub: [https://github.com/Sangji0559]
-* Blog: [https://gkgktkdwl.tistory.com/]
+* Blog: [https://gkgktkdwl.tistory.com]
